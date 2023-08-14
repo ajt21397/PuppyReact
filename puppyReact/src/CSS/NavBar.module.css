@@ -1,0 +1,13 @@
+.form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .label {
+    padding: 10px;
+  }
+  
+  .btn {
+    margin-left: 10px;
+  }
